@@ -103,8 +103,8 @@ React.useEffect(
     <div className="container">
     {homepage?
       <div className="home">
-            <h1>Quizzical</h1>
-            <p>Answer the questions and test your knowledge</p>
+            <h1>Trivia Bowl</h1>
+            <p>choose a category and difficulty if you are up for the challenge!</p>
             <div className="form">
             <div className="form-element">
             <label htmlFor="category">Category</label>
